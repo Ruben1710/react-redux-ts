@@ -1,2 +1,3 @@
-# react-redux-ts
-ToDo List
+## Учебный проект
+
+### npm start - запуск
